@@ -6,7 +6,7 @@
                     <th>Nama Anggota : <?= $u->nama; ?></th>
                 </tr>
                 <tr>
-                    <th>Buku Yang Dibooking:</th>
+                    <th>Buku Yang Dibooking: <</th>
                 </tr>
             <?php } ?>
             <tr>
@@ -53,4 +53,4 @@
                     <?= md5(date('d M Y H:i:s')); ?>
                 </td>
             </tr>
-        </table>
+</table>
